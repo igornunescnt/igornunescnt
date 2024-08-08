@@ -7,8 +7,6 @@
 
 - 🌱 Possuo conhecimento em **Java Swing, MySQL, HTML, CSS e React JS**.
 
-- 🤝 Estou em busca do meu primeiro estágio/trabalho **na área de TI**.
-
 - 💬 Meu primeiro contato com programação foi através da **linguagem C**.
 
 - 📫Você pode me contatar pelo **igornunescnt@gmailcom**
