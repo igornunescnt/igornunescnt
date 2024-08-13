@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou o Ygor Nunes</h1>
-<h3 align="center">Eu sou apaixonado por programação.</h3>
 
 - 📝 Estudo Analise e desenvolvimento de sistemas **Pela Cruzeiro do Sul**.
 
