@@ -1,13 +1,13 @@
-<h1 align="center">Oi 👋, Eu sou o Ygor Nunes</h1>
-<h3 align="center">Eu sou apaixonado por programação web.</h3>
+<h1 align="center">Olá 👋, Eu sou o Ygor Nunes</h1>
+<h3 align="center">Eu sou apaixonado por programação.</h3>
 
 - 📝 Estudo Analise e desenvolvimento de sistemas **Pela Cruzeiro do Sul**.
 
-- 🔭 Tenho interesse em me tornar desenvolvedor **Full Stack**.
+- 🔭 Aspirante desenvolvedor **Full Stack**.
 
-- 🌱 Possuo conhecimento em **Java Swing, MySQL, HTML, CSS e React JS**.
+- 🌱 Possuo conhecimento em **Java Swing, MySQL, PostgreSQL, HTML5, CSS3, React JS, C e Python**.
 
-- 💬 Meu primeiro contato com programação foi através da **linguagem C**.
+- 💬 Tudo começou em 2014 através da **linguagem C**.
 
 - 📫Você pode me contatar pelo **igornunescnt@gmailcom**
 
