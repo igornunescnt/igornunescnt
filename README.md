@@ -2,7 +2,7 @@
 
 - 📝 Estudo Analise e desenvolvimento de sistemas **Pela Cruzeiro do Sul**.
 
-- 🔭 Aspirante desenvolvedor **Full Stack**.
+- 🔭 Entusiasta desenvolvedor **Full Stack**.
 
 - 🌱 Possuo conhecimento em **Java Swing, MySQL, PostgreSQL, HTML5, CSS3, React JS, C e Python**.
 
