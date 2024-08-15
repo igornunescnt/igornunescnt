@@ -9,7 +9,7 @@
 - 💬 Tudo começou em 2014 através da **linguagem C**.
 
 - **Últimos projetos publicados:**
-- <a href="https://igornunescnt.github.io/projeto-android/">Curiosidades da Tecnologia - Android</a>
+  <a href="https://igornunescnt.github.io/projeto-android/">Curiosidades da Tecnologia - Android</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
