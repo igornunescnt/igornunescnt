@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Ygor Nunes</h1>
 
-- 📝 Estudo Análise e desenvolvimento de sistemas.
+📝 Sou estudante de Análise e Desenvolvimento de Sistemas, mergulhando no universo da tecnologia e da programação.
 
-- 🔭 Entusiasta desenvolvedor **Front-end**.
+🔭 Como desenvolvedor Front-end entusiasta, estou sempre em busca de novas formas de criar interfaces atraentes e funcionais que proporcionem experiências memoráveis aos usuários.
 
-- 🌱 No Front, possuo conhecimento em **HTML5, CSS3, JavaScript, React JS, TailwindCSS**.
+🌱 Tenho habilidades em HTML5, CSS3, JavaScript, React JS e TailwindCSS, com um forte foco em design responsivo e usabilidade.
 
-- 💬 Além disso, tenho conhecimento em **linguagem C, Python, Java Spring, MySQL, PostgreSQL e Versionamento com GIT**.
+💬 Além das tecnologias do Front-end, também sou familiarizado com linguagens como C, Python e Java Spring, além de bancos de dados MySQL e PostgreSQL. Meu conhecimento em versionamento com GIT me ajuda a colaborar eficientemente em projetos.
 
 - **Últimos projetos publicados:**
   <a href="https://igornunescnt.github.io/projeto-android/">Curiosidades da Tecnologia - Android</a>
