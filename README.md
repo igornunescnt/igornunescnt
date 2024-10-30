@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Ygor Nunes</h1>
 
-- 📝 Estudo Analise e desenvolvimento de sistemas **Pela Cruzeiro do Sul**.
+- 📝 Estudo Análise e desenvolvimento de sistemas.
 
-- 🔭 Entusiasta desenvolvedor **Full Stack**.
+- 🔭 Entusiasta desenvolvedor **Front-end**.
 
-- 🌱 Possuo conhecimento em **Java Swing, MySQL, PostgreSQL, HTML5, CSS3, React JS, C e Python**.
+- 🌱 No Front, possuo conhecimento em **HTML5, CSS3, JavaScript, React JS, TailwindCSS**.
 
-- 💬 Tudo começou em 2014 através da **linguagem C**.
+- 💬 Além disso, tenho conhecimento em **linguagem C, Python, Java Spring, MySQL, PostgreSQL e Versionamento com GIT**.
 
 - **Últimos projetos publicados:**
   <a href="https://igornunescnt.github.io/projeto-android/">Curiosidades da Tecnologia - Android</a>
