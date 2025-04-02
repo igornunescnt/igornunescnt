@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Ygor Nunes</h1>
 
-📝 Sou estudante de Análise e Desenvolvimento de Sistemas, mergulhando no universo da tecnologia e da programação.
+📝 Sou Análista e desenvolvedor de sistemas.
 
-🔭 Como desenvolvedor Front-end entusiasta, estou sempre em busca de novas formas de criar interfaces atraentes e funcionais que proporcionem experiências memoráveis aos usuários.
+🔭 Como desenvolvedor front-end, estou sempre em busca de novas formas de criar interfaces atraentes e funcionais que proporcionem experiências memoráveis aos usuários.
 
 🌱 Tenho habilidades em HTML5, CSS3, JavaScript, React JS e TailwindCSS, com um forte foco em design responsivo e usabilidade.
 
