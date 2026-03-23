@@ -9,7 +9,7 @@
 💬 Além das tecnologias do Front-end, também sou familiarizado com linguagens como C, Python e Java Spring, além de bancos de dados MySQL e PostgreSQL. Meu conhecimento em versionamento com GIT me ajuda a colaborar eficientemente em projetos.
 
 **Último projeto publicado:**
-  <a href="https://cardapio-vip.vercel.app/">Landing page: EnergySolutions</a>
+  <a href="[https://cardapio-vip.vercel.app/](https://energy-solutions-eta.vercel.app/)">Landing page: EnergySolutions</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
