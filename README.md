@@ -5,7 +5,7 @@ Desenvolvedor Full Stack • Java • Spring Boot • React • Node.js
 </h3>
 
 <p align="center">
-📍 Formosa - GO • Disponível para mudança
+📍 Goiás / São Paulo (Disponibilidade para mudança)
 </p>
 
 ---
